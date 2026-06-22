@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Dulakshi Gammanpila (I.D.D.C. Gammanpila)
+# Hi there 👋, I'm Dulakshi Gammanpila 
 
 🎓 Final-year Computer Science undergraduate at the University of Sri Jayewardenepura, Sri Lanka
 💻 Passionate about AI/ML, Full-Stack Development, and building real-world healthcare tech
