@@ -61,6 +61,9 @@ A comprehensive library management platform with member management, book trackin
 ### DevOps & Cloud
 `Docker` `GitHub Actions` `Azure Container Apps` `Hugging Face Hub`
 
+### Design
+`Canva` `Figma`
+
 ### Tools
 `Git` `GitHub` `VS Code` `Jupyter Notebook` `Postman` `Google Colab`
 
