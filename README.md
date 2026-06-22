@@ -1,23 +1,23 @@
 # Hi there 👋, I'm Dulakshi Gammanpila 
 
-🎓 Final-year Computer Science undergraduate at the University of Sri Jayewardenepura, Sri Lanka
-💻 Passionate about AI/ML, Full-Stack Development, and building real-world healthcare tech
-🚀 I enjoy combining modern web technologies with intelligent systems to solve meaningful problems
+Final-year Computer Science undergraduate at the University of Sri Jayewardenepura, Sri Lanka
+Passionate about AI/ML, Full-Stack Development, and building real-world healthcare tech
+I enjoy combining modern web technologies with intelligent systems to solve meaningful problems
 
 ---
 
-## 🌟 About Me
+## About Me
 
-- 🎓 Computer Science Undergraduate — University of Sri Jayewardenepura
-- 🌱 Continuously deepening expertise in machine learning, cloud deployment, and system design
-- 🤝 Open to collaboration on AI, ML, and full-stack projects
-- 📍 Sri Lanka
+- Computer Science Undergraduate — University of Sri Jayewardenepura
+- Continuously deepening expertise in machine learning, cloud deployment, and system design
+- Open to collaboration on AI, ML, and full-stack projects
+- Sri Lanka
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧠 NeuraScan
+### NeuraScan
 A brain tumor MRI classification system using a hybrid **EfficientNetB0 + Vision Transformer (ViT-Base)** architecture, achieving ~94% test accuracy across 4 tumor classes. Deployed via Azure Container Apps with a FastAPI backend and React/Vite frontend.
 
 **Tech Stack:** Python, PyTorch, Hugging Face Transformers, FastAPI, React, Vite, Tailwind CSS, Docker, GitHub Actions, Azure Container Apps
@@ -26,7 +26,7 @@ A brain tumor MRI classification system using a hybrid **EfficientNetB0 + Vision
 
 ---
 
-### 🩺 MediScan
+### MediScan
 An AI-powered medical report analyzer that extracts and explains pathology report content in plain English using large language models, RAG pipelines, and OCR.
 
 **Tech Stack:** Python, FastAPI, React, LangChain, Hugging Face Spaces, Azure OpenAI, OCR
@@ -35,7 +35,7 @@ An AI-powered medical report analyzer that extracts and explains pathology repor
 
 ---
 
-### 📚 Library Management System
+### Library Management System
 A comprehensive library management platform with member management, book tracking, invoicing, email notifications, and payment integration.
 
 **Tech Stack:** PHP, JavaScript, MySQL, AJAX, Bootstrap
@@ -44,7 +44,7 @@ A comprehensive library management platform with member management, book trackin
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Programming Languages
 `Python` `Java` `JavaScript` `PHP` `React` `C` `Typescript`
@@ -69,18 +69,11 @@ A comprehensive library management platform with member management, book trackin
 
 ---
 
-## 📊 GitHub Stats
+## Connect With Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: www.linkedin.com/in/dulakshi-gammanpila-7737a9338
-- 📧 Email: dulakshigamma@gmail.com
+- LinkedIn: www.linkedin.com/in/dulakshi-gammanpila-7737a9338
+- Email: dulakshigamma@gmail.com
 
 ---
 
-⭐ Thanks for visiting! Feel free to explore my repositories and reach out — always happy to connect over AI, ML, or interesting projects.
+Thanks for visiting! Feel free to explore my repositories and reach out — always happy to connect over AI, ML, or interesting projects.
